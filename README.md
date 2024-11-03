@@ -2,7 +2,7 @@
 
 ## Overview
 
-Learn to build a real-time chat application using Spring Boot and WebSockets, covering both backend and frontend implementations step-by-step.
+A real-time chat application using Spring Boot and WebSockets, covering both backend and frontend implementations step-by-step.
 
 ## Getting Started
 
