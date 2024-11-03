@@ -36,6 +36,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
-
-Project Link: [PING - Java Chat App](https://github.com/yourusername/PING-Java-Chat-App)
+Rupin Ajay
+Feel free to contact me at rupinajay@gmail.com.
